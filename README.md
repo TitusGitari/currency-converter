@@ -12,3 +12,7 @@ A simple Python command-line application that converts one currency into another
 ---
 
 ## 📂 Project Structure
+currency_converter/
+│── converter.py # main script
+│── .gitignore # ignored files
+│── README.md # project documentation
